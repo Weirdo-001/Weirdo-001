@@ -4,9 +4,17 @@
 
 <br/></br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushisharma25/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Aarushi_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushisharmarfan@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/aarushisharma25/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
+  </a>
+  <a href="https://leetcode.com/u/Aarushi_/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" />
+  </a>
+  <a href="mailto:aarushisharmarfan@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
+  </a>
+</div>
 
 </div>
 
