@@ -95,39 +95,47 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 
 ## 🚀 Featured Projects
 
-### 🔐 VaultHUB – Blockchain-Based Secure Digital Vault
-**Tech Stack:** `Solidity` `Ethereum` `Hardhat` `React` `MetaMask` `Ethers.js` `IPFS` `Pinata` `Vercel`
+### 🧠 DeepFake Video Detection System
+**Tech Stack:** `TensorFlow` `Keras` `MobileNetV2` `Vision Transformer (ViT)` `OpenCV` `NumPy` `Pandas` `Python`
 
-- Built a **decentralized file vault** using Solidity smart contracts deployed to Ethereum Sepolia
-- Integrated MetaMask wallet authentication with **role-based wallet permissions**
-- Implemented **IPFS + Pinata** storage with immutable file ownership records on-chain
-- Deployed responsive React dApp on Vercel with real-time transaction feedback via Ethers.js
+- Designed and compared **CNN (MobileNetV2)** and **Transformer (ViT)**-based architectures for deepfake detection, achieving **94.9% and 92% accuracy** respectively across diverse video sources
+- Built an end-to-end automated video analysis pipeline using **OpenCV** for frame extraction, feature engineering, and real-time classification of manipulated media content
+- Applied **transfer learning** and large-scale dataset augmentation to significantly enhance model robustness, generalization, and reliability on unseen real-world data
+- Conducted **cross-architecture benchmarking** via cross-validation and statistical performance analysis to drive prescriptive model selection; findings presented to both technical and non-technical audiences
+- Engineered scalable data pipeline from **raw video → frame extraction → feature engineering → model inference → real-time output**, achieving production-grade reliability throughout the workflow
 
 ---
 
-### 🧠 DeepFake Video Detection System
-**Tech Stack:** `TensorFlow` `Keras` `MobileNetV2` `Vision Transformer (ViT)` `OpenCV` `Python`
+### 🔐 VaultHUB – Blockchain-Based Secure Payment & Digital Vault
+**Tech Stack:** `Solidity` `Ethereum` `Hardhat` `React` `MetaMask` `Ethers.js` `IPFS` `Pinata` `Vercel`
 
-- Designed & compared **CNN (MobileNetV2)** and **Transformer (ViT)** models — **94.9% & 92% accuracy**
-- Built automated video analysis pipeline with OpenCV for **real-time frame classification**
-- Enhanced robustness via **transfer learning** and large-scale dataset augmentation
+- Built a fully **decentralized file vault** using Solidity smart contracts developed on Hardhat and deployed to Ethereum Sepolia testnet
+- Integrated **MetaMask wallet authentication** with role-based wallet permissions for secure vault ownership and controlled file sharing between addresses
+- Implemented **IPFS + Pinata** distributed storage with wallet-based view access control and immutable on-chain file ownership records
+- Developed and deployed a responsive **React dApp on Vercel** using Ethers.js for smart contract interaction and real-time transaction feedback to users
+- Architected the system with **decentralized trust principles** — no central server stores user files; all access control logic lives on-chain via Solidity, ensuring censorship resistance and tamper-proof ownership
 
 ---
 
 ### 💰 FundRaise – Scalable Donation Backend Platform
-**Tech Stack:** `Java` `Spring Boot` `React` `MySQL` `Hibernate` `JPA` `JWT` `REST APIs`
+**Tech Stack:** `Java` `Spring Boot` `React` `MySQL` `Hibernate` `JPA` `JWT` `REST APIs` `JavaScript`
 
-- Full-stack fundraising platform with **secure transactions and transparent fund tracking**
-- Role-based authorization for admins and donors; optimized with Java Streams & efficient SQL
-- Delivered **99% uptime** on cloud-ready infrastructure
+- Developed a full-stack fundraising and donation platform enabling **secure transactions, donor management, and transparent fund tracking** with real-time contribution analytics
+- Built **RESTful APIs using Spring Boot** integrated with a React frontend, and implemented Hibernate ORM with MySQL for efficient relational data management
+- Added **JWT-based authentication and role-based authorization** for admins and donors to manage campaigns, donations, and complete user history
+- Designed **interactive dashboards** displaying active campaigns, donation history, and real-time analytics — translating complex financial data into actionable insights for non-technical stakeholders
+- Optimized backend API performance using **Java Streams, collections, and efficient SQL queries**, improving response time for analytics queries and achieving 99% uptime on cloud-ready infrastructure
 
 ---
 
 ### ☀️ IoT-Based Solar Tracking System
-**Tech Stack:** `Arduino` `ESP8266` `LDR Sensors` `C` `ThingSpeak` `AWS EC2` `CloudWatch`
+**Tech Stack:** `Arduino` `ESP8266` `LDR Sensors` `Servo Motor` `C` `ThingSpeak` `AWS EC2` `CloudWatch`
 
-- Solar tracking system using **LDR sensors & servo motor** for maximum energy capture
-- Real-time monitoring deployed on **AWS EC2 + CloudWatch** across distributed sensor nodes
+- Designed an IoT-based solar tracking system that automatically orients a solar panel toward the sun using **LDR sensors and a servo motor**, maximizing energy capture throughout the day
+- Implemented **real-time light intensity detection** with motor movement dynamically adjusting based on sunlight direction via calibrated sensor threshold logic written in C
+- Integrated **ESP8266** module for wireless data transmission, continuously sending light-intensity readings and panel status updates to ThingSpeak IoT cloud for live monitoring
+- Deployed a **cloud-based monitoring dashboard** on AWS (EC2 + CloudWatch) providing ongoing post-implementation tracking and alerting across distributed sensor nodes
+- Optimized system accuracy and responsiveness through **calibrated sensor thresholds and efficient motor control logic**, analogous to real-time adaptive optimization systems in production environments
 
 ---
 
