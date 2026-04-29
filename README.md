@@ -19,7 +19,7 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 
 - 🔭 Currently building **VaultHUB** (Blockchain vault dApp) and **DeepFake Detection System**
 - 🌱 Deep diving into **Agentic AI, Solidity/Ethereum, and FinTech Analytics**
-- 🎓 2nd Year B.E. CSE at **Chitkara University** (CGPA: **9.54**)
+- 🎓 3rd Year B.E. CSE at **Chitkara University** (CGPA: **9.54**)
 - 🏆 **HackIndia Web3 Finalist** | HackMol Qualifier | Chancellor's Award Winner
 - 💬 Ask me about **React, Spring Boot, Python, ML, Solidity, System Design**
 - 📫 Reach me: **aarushisharmarfan@gmail.com**
