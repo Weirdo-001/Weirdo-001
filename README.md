@@ -5,15 +5,29 @@
 <br/></br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aarushisharma25/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
-  </a>
-  <a href="https://leetcode.com/u/Aarushi_/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" />
-  </a>
-  <a href="mailto:aarushisharmarfan@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
-  </a>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/aarushisharma25/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/Aarushi_/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="24" height="24" />
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:aarushisharmarfan@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
 </div>
