@@ -1,23 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Aarushi+Sharma;Full+Stack+%2B+AI+%2B+Blockchain+Dev;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Github+Profile!;Aarushi+this+side;Web+Development+%2B+AI%2FML+%2B+Blockchain;Let's+Build+something+Great+Together!" alt="Typing SVG" />
+
+<br/></br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushisharma25/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Weirdo-001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Aarushi_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushisharmarfan@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-### 🚀 About Me
+I'm a **Full Stack & AI Engineer** passionate about building production-grade systems that blend modern web technologies with cutting-edge **AI, Machine Learning, and Blockchain**. I specialize in **ML pipelines, Spring Boot backends, React frontends, and Decentralized apps**.
 
-</div>
-
-I'm a **Full Stack & AI Engineer** passionate about building production-grade systems that blend modern web technologies with cutting-edge AI and Blockchain. I specialize in **Machine Learning pipelines, Spring Boot backends, React frontends, and Decentralized apps**.
-
-- 🔭 Currently building **VaultHUB** (Blockchain vault) and **DeepFake Detection System**
-- 🌱 Deep diving into **Agentic AI, Blockchain (Solidity/Ethereum), and FinTech Analytics**
-- 🎓 2nd Year B.E. in CSE at **Chitkara University** (CGPA: **9.54**)
-- 🏆 **HackIndia Web3 Finalist**, HackMol Qualifier, Chancellor's Award Winner
+- 🔭 Currently building **VaultHUB** (Blockchain vault dApp) and **DeepFake Detection System**
+- 🌱 Deep diving into **Agentic AI, Solidity/Ethereum, and FinTech Analytics**
+- 🎓 2nd Year B.E. CSE at **Chitkara University** (CGPA: **9.54**)
+- 🏆 **HackIndia Web3 Finalist** | HackMol Qualifier | Chancellor's Award Winner
 - 💬 Ask me about **React, Spring Boot, Python, ML, Solidity, System Design**
 - 📫 Reach me: **aarushisharmarfan@gmail.com**
 - ⚡ Fun fact: **I design 80+ creatives AND write ML models in the same week!**
@@ -45,15 +48,16 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Blockchain & Web3
@@ -71,9 +75,9 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -81,35 +85,31 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 
 ### 🎨 Graphics Designing Co-Head | Apple Student Community *(Jun 2024 – Jun 2025)*
 - Led cross-functional design team delivering **80+ creatives** on deadline
-- Demonstrated project ownership, stakeholder management and communication at scale
+- Demonstrated project ownership, stakeholder management and creative leadership at scale
 
 ### 💻 C Programming Instructor | CUIET *(Mar 2024)*
-- Trained **50+ students** in C programming
-- Recognized for translating complex technical concepts into accessible language
-
-### 🌐 HackIndia & Hackathon Participant *(2023 – Present)*
-- Finalist at **HackIndia Web3 Hackathon** — built full blockchain solution under competition conditions
-- Qualified **two rounds at HackMol 6.0**, NIT Jalandhar
+- Trained **50+ students** in C programming; recognized for clear technical communication
+- Translated complex concepts into accessible language for non-technical audiences
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 VaultHUB – Blockchain-Based Secure Payment & Digital Vault
+### 🔐 VaultHUB – Blockchain-Based Secure Digital Vault
 **Tech Stack:** `Solidity` `Ethereum` `Hardhat` `React` `MetaMask` `Ethers.js` `IPFS` `Pinata` `Vercel`
 
 - Built a **decentralized file vault** using Solidity smart contracts deployed to Ethereum Sepolia
 - Integrated MetaMask wallet authentication with **role-based wallet permissions**
-- Implemented **IPFS + Pinata** storage with immutable file ownership records
-- Deployed responsive React dApp on Vercel with real-time transaction feedback
+- Implemented **IPFS + Pinata** storage with immutable file ownership records on-chain
+- Deployed responsive React dApp on Vercel with real-time transaction feedback via Ethers.js
 
 ---
 
 ### 🧠 DeepFake Video Detection System
-**Tech Stack:** `TensorFlow` `Keras` `MobileNetV2` `Vision Transformer` `OpenCV` `Python`
+**Tech Stack:** `TensorFlow` `Keras` `MobileNetV2` `Vision Transformer (ViT)` `OpenCV` `Python`
 
-- Designed & compared **CNN (MobileNetV2)** and **Transformer (ViT)** models achieving **94.9% and 92% accuracy**
-- Built automated video analysis pipeline with OpenCV for **real-time classification**
+- Designed & compared **CNN (MobileNetV2)** and **Transformer (ViT)** models — **94.9% & 92% accuracy**
+- Built automated video analysis pipeline with OpenCV for **real-time frame classification**
 - Enhanced robustness via **transfer learning** and large-scale dataset augmentation
 
 ---
@@ -117,30 +117,29 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 ### 💰 FundRaise – Scalable Donation Backend Platform
 **Tech Stack:** `Java` `Spring Boot` `React` `MySQL` `Hibernate` `JPA` `JWT` `REST APIs`
 
-- Developed full-stack fundraising platform with **secure transactions and donor management**
-- Built RESTful APIs using Spring Boot with **role-based authorization**
-- Optimized backend with Java Streams and efficient SQL — achieving **99% uptime**
+- Full-stack fundraising platform with **secure transactions and transparent fund tracking**
+- Role-based authorization for admins and donors; optimized with Java Streams & efficient SQL
+- Delivered **99% uptime** on cloud-ready infrastructure
 
 ---
 
 ### ☀️ IoT-Based Solar Tracking System
-**Tech Stack:** `Arduino` `ESP8266` `LDR Sensors` `C` `ThingSpeak` `AWS`
+**Tech Stack:** `Arduino` `ESP8266` `LDR Sensors` `C` `ThingSpeak` `AWS EC2` `CloudWatch`
 
-- Designed solar tracking system using **LDR sensors & servo motor** for max energy capture
-- Integrated **ESP8266** for wireless data transmission to ThingSpeak cloud
-- Deployed cloud-based monitoring on **AWS (EC2, CloudWatch)**
+- Solar tracking system using **LDR sensors & servo motor** for maximum energy capture
+- Real-time monitoring deployed on **AWS EC2 + CloudWatch** across distributed sensor nodes
 
 ---
 
 ## 🏆 Achievements
 
-| 🏅 Award | 🗓️ Year | 📋 Details |
-|----------|---------|-----------|
-| 🥉 2nd Runner-Up | 2024 | Coding Ninjas Codify — Competitive coding & logic event |
-| 🥈 1st Runner-Up | 2024 | ASC-COE Designing Competition |
-| 🏆 Finalist | 2024 | HackIndia Web3 Hackathon |
-| 🎖️ Chancellor's Award | 2024 | Discrete Mathematics — exceptional documentation |
-| ✅ Qualified 2 Rounds | 2024 | HackMol 6.0, NIT Jalandhar |
+| 🏅 Award | 📋 Details |
+|----------|-----------|
+| 🥉 2nd Runner-Up | Coding Ninjas Codify — Competitive coding & logic event |
+| 🥈 1st Runner-Up | ASC-COE Designing Competition |
+| 🏆 Finalist | HackIndia Web3 Hackathon — Built full blockchain solution under pressure |
+| 🎖️ Chancellor's Award | Discrete Mathematics — exceptional documentation & presentation |
+| ✅ Qualified 2 Rounds | HackMol 6.0, NIT Jalandhar — National-level hackathon |
 
 ---
 
@@ -148,29 +147,49 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weirdo-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weirdo-001&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Weirdo-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weirdo-001&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Weirdo-001&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+<img width="70%" src="https://streak-stats.demolab.com?user=Weirdo-001&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushisharma25/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Weirdo-001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Aarushi_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushisharmarfan@gmail.com)
+[![Aarushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Weirdo-001&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+## 🥧 Skills Breakdown
+
+```
+💻 Languages        ████████████████████  Java · Python · JS · C · SQL · Solidity
+🌐 Web Dev          ██████████████████░░  React · Spring Boot · Node · Express
+🧠 AI / ML          ████████████████░░░░  TensorFlow · PyTorch · OpenCV · CNNs · ViT
+🔗 Blockchain       ██████████████░░░░░░  Solidity · Ethereum · IPFS · MetaMask
+☁️ Cloud & DevOps   ████████████░░░░░░░░  AWS · Docker · Git · Linux · Vercel
+🗄️ Databases        ██████████░░░░░░░░░░  MySQL · MongoDB
+```
+
+---
+
+## 🌐 Development Setup
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
@@ -178,6 +197,6 @@ I'm a **Full Stack & AI Engineer** passionate about building production-grade sy
 
 ⭐ **Show some love by starring some of my repositories!** ⭐
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Weirdo-001&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Weirdo-001&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
