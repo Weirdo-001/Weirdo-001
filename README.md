@@ -6,25 +6,26 @@
 
 <div align="center">
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td align="center">
-<a href="https://www.linkedin.com/in/aarushisharma25/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" />
+<a href="https://www.linkedin.com/in/aarushisharma25/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://leetcode.com/u/Aarushi_/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="24" height="24" />
+<a href="https://leetcode.com/u/Aarushi_/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32"/>
 </a>
 </td>
 
 <td align="center">
-<a href="mailto:aarushisharmarfan@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
+<a href="mailto:aarushisharmarfan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="32"/>
 </a>
 </td>
+
 </tr>
 </table>
 
