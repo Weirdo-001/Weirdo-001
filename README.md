@@ -2,27 +2,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Github+Profile!;Aarushi+this+side;Web+Development+%2B+AI%2FML+%2B+Blockchain;Let's+Build+something+Great+Together!" alt="Typing SVG" />
 
-<br/></br>
+<br/>
 
 <div align="center">
 
-<table cellpadding="0" cellspacing="0">
+<table>
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/aarushisharma25/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://leetcode.com/u/Aarushi_/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"/>
 </a>
 </td>
 
 <td align="center">
 <a href="mailto:aarushisharmarfan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="32"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="28"/>
 </a>
 </td>
 
